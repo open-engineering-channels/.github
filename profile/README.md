@@ -92,7 +92,7 @@ docs.open-engineering.io
 
 ⸻
 
-Developer Portal
+## Developer Portal
 
 Resources for engineers building on the Open Engineering Platform.
 
