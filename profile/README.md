@@ -184,13 +184,14 @@ Every channel should be:
 ⸻
 
 ## Relationship to Other Organizations
-```
-Organization	Responsibility
-Open Engineering Platform	Runtime architecture and reusable engineering capabilities
-Open Engineering Conventions	Standards and conventions
-Open Engineering Resolvers	Resolution services and identifiers
-Open Engineering Channels	Public communication and developer experiences
-```
+
+| Organization | Responsibility |
+| --- | --- |
+| Open Engineering Platform	| Runtime architecture and reusable engineering capabilities |
+| Open Engineering Conventions | Standards and conventions |
+| Open Engineering Resolvers | Resolution services and identifiers |
+| Open Engineering Channels	| Public communication and developer experiences |
+
 ⸻
 
 ## Vision
